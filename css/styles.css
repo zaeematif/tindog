@@ -270,9 +270,6 @@ h2{
 
 @media (max-width: 1093px){
     
-    #title {
-        text-align: center;
-    }
     
      .navbar {
         padding: 2.5rem 5rem;
@@ -284,6 +281,12 @@ h2{
         font-size: 6rem;
         font-weight: bold;
     }
+    
+    #title {
+        text-align: center;
+    }
+    
+    
 
     h1{
         font-family: 'Montserrat', sans-serif;
